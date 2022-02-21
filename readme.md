@@ -2,11 +2,9 @@
 
 # Simulador integrado Izidev
 
-#
-
 ### Chamada do Script
+
 #### Exemplo básico
-#
 ```html
 <script
       id="simulation-script"
@@ -15,10 +13,8 @@
 ></script>
 ```
 
-#
 
 #### Utilizando parâmetros opcionais
-#
 ```html
 <script
       id="simulation-script"
@@ -30,7 +26,6 @@
 ```
 
 #### Parâmetros
-#
 | Parâmetro | Descrição |
 | ------ | ------ |
 | src (obrigatório) | Caminho do script. |
@@ -39,10 +34,8 @@
 | simulate-icon (opcional) | Adiciona no canto direito inferior da tela um botão que abre o modal de simulação. |
 | simulate-icon-styles (opcional) | Adicionar novos estilos ao botão de que abre o modal de simulação. |
 
-#
 
 ### Chamando o modal de simulação a partir de um botão na página
-#
 ```html
 <button onclick="openSimulation()">Abrir Simulador</button>
 ```
