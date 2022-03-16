@@ -12,6 +12,7 @@
       id="simulation-script"
       src="https://storage.googleapis.com/simulador-fgts/scripts/script-izidev-modal-simulator.js"
       emp="izidev"
+      defer
 ></script>
 ```
 
@@ -26,6 +27,7 @@
       simulate-icon="true"
       simulate-icon-styles="background:#010101;font-weight:bold;"
       emp="izidev"
+      defer
 ></script>
 ```
 
